@@ -3,6 +3,7 @@
 [![pdf2image](https://img.shields.io/badge/pdf2image-pypi-blue.svg)](https://pypi.org/project/pdf2image/1.5.4/)
 [![pytesseract](https://img.shields.io/badge/pytesseract-pypi-red.svg)](https://pypi.org/project/pytesseract/)
 [![pillow](https://img.shields.io/badge/pillow-pypi-orange.svg)](https://pypi.org/project/Pillow/)
+[![poppler](https://img.shields.io/badge/poppler-src-yellowgreen.svg)](http://blog.alivate.com.au/poppler-windows/)
 
 Program to find text fields in pdfs and convert to images for OCR to read.
 
